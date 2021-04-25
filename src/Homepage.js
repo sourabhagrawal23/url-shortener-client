@@ -74,7 +74,7 @@ class Homepage extends Component {
     return (
       <div className="homepage">
         <h1>
-          <span>ShRINK</span> ME
+          <span>SHRINK</span> ME
         </h1>
         <div className="description">
           Simple UI. No registration required.
