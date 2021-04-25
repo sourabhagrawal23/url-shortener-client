@@ -74,7 +74,7 @@ class Homepage extends Component {
     return (
       <div className="homepage">
         <h1>
-          <span>URL</span> SHORTENER
+          <span>ShRINK</span> ME
         </h1>
         <div className="description">
           Simple UI. No registration required.
@@ -106,7 +106,7 @@ class Homepage extends Component {
         {shortUrl.length > 1 && (
           <div>
             <div className="description">
-              Here is your <span>awesome</span> short URL : )
+              Here is your <span>shrinked</span> URL : )
             </div>
             <div id="shortUrl" className="shortUrl">
               {shortUrl}
