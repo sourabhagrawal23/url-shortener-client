@@ -77,7 +77,7 @@ class Homepage extends Component {
           <span>SHRINK</span> ME
         </h1>
         <div className="description">
-          Simple UI. No registration required.
+          Simple and Clean UI. No registration required.
           <br />
           Use <span>URL Shortener</span> to easily shrink long URL
         </div>
