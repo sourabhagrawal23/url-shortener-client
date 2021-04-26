@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sourabhagrawal23.github.io/url-shortener-client/Homepage.js",
+  "homepage": "http://sourabhagrawal23.github.io/url-shortener-client/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
