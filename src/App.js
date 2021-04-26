@@ -8,8 +8,8 @@ class App extends Component {
     return (
       <Router>
         <Switch>
-          <Route exact path="/" component={Homepage} />
-          <Route exact path="/:urlCode" component={Redirect} />
+          <Route exact path="/url-shortener-client" component={Homepage} />
+          <Route exact path="/url-shortener-client/:urlCode" component={Redirect} />
         </Switch>
       </Router>
     );
