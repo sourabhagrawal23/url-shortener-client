@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/url-shortener-client/Homepage.js/static/css/main.5e89c355.chunk.css",
-    "main.js": "/url-shortener-client/Homepage.js/static/js/main.566a7660.chunk.js",
-    "main.js.map": "/url-shortener-client/Homepage.js/static/js/main.566a7660.chunk.js.map",
-    "runtime-main.js": "/url-shortener-client/Homepage.js/static/js/runtime-main.9ae9860f.js",
-    "runtime-main.js.map": "/url-shortener-client/Homepage.js/static/js/runtime-main.9ae9860f.js.map",
-    "static/css/2.4e692d1c.chunk.css": "/url-shortener-client/Homepage.js/static/css/2.4e692d1c.chunk.css",
-    "static/js/2.b9b9552a.chunk.js": "/url-shortener-client/Homepage.js/static/js/2.b9b9552a.chunk.js",
-    "static/js/2.b9b9552a.chunk.js.map": "/url-shortener-client/Homepage.js/static/js/2.b9b9552a.chunk.js.map",
-    "index.html": "/url-shortener-client/Homepage.js/index.html",
-    "static/css/2.4e692d1c.chunk.css.map": "/url-shortener-client/Homepage.js/static/css/2.4e692d1c.chunk.css.map",
-    "static/css/main.5e89c355.chunk.css.map": "/url-shortener-client/Homepage.js/static/css/main.5e89c355.chunk.css.map",
-    "static/js/2.b9b9552a.chunk.js.LICENSE.txt": "/url-shortener-client/Homepage.js/static/js/2.b9b9552a.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/url-shortener-client/Homepage.js/static/media/fa-solid-900.efbd5d20.eot"
+    "main.css": "/url-shortener-client/static/css/main.5e89c355.chunk.css",
+    "main.js": "/url-shortener-client/static/js/main.566a7660.chunk.js",
+    "main.js.map": "/url-shortener-client/static/js/main.566a7660.chunk.js.map",
+    "runtime-main.js": "/url-shortener-client/static/js/runtime-main.8b0b022c.js",
+    "runtime-main.js.map": "/url-shortener-client/static/js/runtime-main.8b0b022c.js.map",
+    "static/css/2.bb17d78d.chunk.css": "/url-shortener-client/static/css/2.bb17d78d.chunk.css",
+    "static/js/2.b9b9552a.chunk.js": "/url-shortener-client/static/js/2.b9b9552a.chunk.js",
+    "static/js/2.b9b9552a.chunk.js.map": "/url-shortener-client/static/js/2.b9b9552a.chunk.js.map",
+    "index.html": "/url-shortener-client/index.html",
+    "static/css/2.bb17d78d.chunk.css.map": "/url-shortener-client/static/css/2.bb17d78d.chunk.css.map",
+    "static/css/main.5e89c355.chunk.css.map": "/url-shortener-client/static/css/main.5e89c355.chunk.css.map",
+    "static/js/2.b9b9552a.chunk.js.LICENSE.txt": "/url-shortener-client/static/js/2.b9b9552a.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/url-shortener-client/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ae9860f.js",
-    "static/css/2.4e692d1c.chunk.css",
+    "static/js/runtime-main.8b0b022c.js",
+    "static/css/2.bb17d78d.chunk.css",
     "static/js/2.b9b9552a.chunk.js",
     "static/css/main.5e89c355.chunk.css",
     "static/js/main.566a7660.chunk.js"
