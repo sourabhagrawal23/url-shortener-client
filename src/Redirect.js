@@ -10,7 +10,7 @@ class Redirect extends Component {
   componentDidMount() {
     const { urlCode } = this.props.match.params;
     axios
-      .post(`https://sourabhagrawal23.github.io/url-shortener-client/api/url/shorten`, {
+      .post(`https://shrinktheurl.herokuapp.com/api/url`, {
         urlCode
       })
       .then(res => {
